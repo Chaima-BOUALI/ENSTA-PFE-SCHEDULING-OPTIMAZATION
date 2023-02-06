@@ -1,0 +1,5 @@
+Scenario id.,Scenario name,Element id.,Param. name,min,max,mean,count,sum
+SEM_SYMB_16,processus_global,SEM_SYMB_7,processing time,,,,,2967.383079
+SEM_SYMB_16,processus_global,SEM_SYMB_10,processing time,,,,1000,
+SEM_SYMB_16,processus_global,SEM_SYMB_8,processing time,2.04790465434,,,,
+SEM_SYMB_16,processus_global,SEM_SYMB_9,processing time,,4.898951922,,,
