@@ -1,15 +1,13 @@
-// string to float in python?   
-var values = "554,20".split(",")
-var v1 = parseFloat(values[0])
-var v2 = parseFloat(values[1])
+// convert string to float in python?                       
+pi_float = float(pi_string)
 
-
-var value = parseFloat("554,20".replace(",", "."));
+float(pi_string)
 
 
 
+//Source: https://stackoverflow.com/questions/38350482
 
-//Source: https://stackoverflow.com/questions/642650
+
 
 
 
